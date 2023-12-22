@@ -1,3 +1,4 @@
+![my_qrcode_1700864115886](https://github.com/OWASP/owasp-masvs/assets/154607265/48e18eff-073c-443b-988b-989e9514e47c)
 ---
 # This is the main metadata file.
 # Variables below can be overwritten by the local metadata
